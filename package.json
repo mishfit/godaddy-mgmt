@@ -1,0 +1,21 @@
+{
+  "name": "godaddy-mgmt",
+  "version": "0.0.1",
+  "description": "Manage My DNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "godaddy",
+    "management",
+    "dns"
+  ],
+  "author": "Mish Ochu <mishochu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
